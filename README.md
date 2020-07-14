@@ -1,1 +1,1 @@
-# C-C-
+Only for C and C++ Projects. 
